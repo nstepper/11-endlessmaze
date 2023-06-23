@@ -35,7 +35,7 @@ To install and run the Note Taker application locally, you'll need to follow the
 
 ## Demo
 
-Here's a live demo of the Note Taker application: [Demo Link](https://your-demo-link.com)
+
 
 ## Screenshots
 
